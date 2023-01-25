@@ -10,5 +10,3 @@
 
 ## Some random jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
